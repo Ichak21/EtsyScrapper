@@ -1,0 +1,6 @@
+﻿Num_page;URL;Status_HTTP;Nb Retry;Nb_Products
+1;https://www.etsy.com/fr/search?q=ring&page=1;200;1;12
+2;https://www.etsy.com/fr/search?q=ring&page=2;200;1;12
+3;https://www.etsy.com/fr/search?q=ring&page=3;200;1;12
+4;https://www.etsy.com/fr/search?q=ring&page=4;200;1;12
+5;https://www.etsy.com/fr/search?q=ring&page=5;200;1;12
